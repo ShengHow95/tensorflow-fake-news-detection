@@ -20,26 +20,45 @@ Fake News Datasets can be obtained from:
 
 ### Data Preprocessing
 1. Text Preprocessing
+
   a. Regular Expression (Remove punctuations and special characters)
+  
   b. Tokenization (Split texts into individual words)
+  
   c. Lemmatization (Turn words back to their root word)
+  
   d. Stop words removal (Remove stop words in texts)
   
+  
 2. Vectorization
+
   a. N-Gram Vectors (TF-IDF Encoding)
+  
   b. Sequence Vectors (One-Hot Encoding)
+  
 
 ### Model Training
 1. Tensorflow Keras Neural Network Model (2 similar models created: 1 for N-Gram Vectors, 1 for Sequence Vectors)
+  
   a. Layer 1 (Input Dense): 64 nodes, RELU activation
+  
   b. Layer 2 (Dropout): 20% dropout
+  
   c. Layer 3 (Dense): 16 nodes, RELU activation
+  
   d. Layer 4 (Dropout): 20% dropout
+  
   e. Layer 5 (Dense): 8 nodes, RELU activation
+  
   f. Layer 6 (Dense): 2 nodes, Sigmoid activation 
+  
 
 ### Model Evaluation
 1. Comparison between 2 Tensorflow Keras Network Model (Using 3 different metrics)
+
   a. Accuracy
+  
   b. Recall 
+  
   c. Computational Time
+  
