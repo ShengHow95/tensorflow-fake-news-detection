@@ -4,6 +4,8 @@ Contributors:
   1. Kong Sheng How
   2. Tan Li Mei
 
+
+
 Fake News Detection With NLP using Tensorflow Keras Simple Neural Network Model
 
 Fake News Datasets can be obtained from:
