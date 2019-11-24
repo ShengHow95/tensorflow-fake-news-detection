@@ -1,8 +1,8 @@
 # FakeNewsDetection Overview
 
 Contributors:
-Kong Sheng How
-Tan Li Mei
+  1. Kong Sheng How
+  2. Tan Li Mei
 
 Fake News Detection With NLP using Tensorflow Keras Simple Neural Network Model
 
