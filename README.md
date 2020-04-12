@@ -3,7 +3,8 @@
 Contributors:
   1. Kong Sheng How
   2. Tan Li Mei
-
+  3. Dr. Gan Keng Hoon
+  4. Dr. Nur Hana Samsudin
 
 
 Fake News Detection With NLP using Tensorflow Keras Simple Neural Network Model
